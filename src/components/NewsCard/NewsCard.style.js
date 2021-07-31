@@ -21,4 +21,8 @@ export default StyleSheet.create({
   inner_container: {
     padding: 5,
   },
+  author: {
+    fontStyle: 'italic',
+    textAlign: 'right',
+  },
 });
